@@ -1,0 +1,304 @@
+.top-banner {
+    background-image:url("images/header-bg.png");}
+  
+    body{
+      margin: 0;
+      font-family: 'IBM Plex Sans', sans-serif;
+    }
+  
+      p {
+      color: dimgray;
+      font-size: 15px;
+    }
+  
+    h3 {
+      color: darkslategray;
+    }
+  
+  
+  .half-width {
+    width: 40%;
+    margin-left: 5%;
+    padding-left:2%;
+    float:left;
+  }
+  .half-width img {
+    width: 80%;
+  }
+  section{
+    height: 500px;
+    padding-bottom: 150px;}
+  
+  body {
+      margin: 0;
+  }
+  .dream-area {
+      background-image: url("images/biography-bg.png");
+  }
+  .quarter-width {
+    width: 30.33%;
+    float: left;
+    margin: 1%;
+    padding: 2%;
+  }
+  
+  .image-area img {
+    width: 15.33%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 3%;
+    
+  }
+   .container {
+     max-width: 1120px;
+     width: 100%;
+     margin: 0 auto;
+     display: flex;
+   }
+
+   .columns {
+     border-radius: 5px;
+     margin: 0 15px 20px;
+     background: #ffffff;
+     flex-basis: 25%;
+   }
+
+   .card {
+     padding: 15px 20px;
+
+   }
+  .experience {
+      padding: 30px;
+      box-sizing: border-box;
+  }
+
+  .experience::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+
+  
+  
+  .review-clients {
+    text-align: center;
+  }
+  .review-clients h1 {
+    padding-bottom: 70px;
+    font-size: 34px;
+    font-weight: normal;
+    padding-top: 120px;
+    }
+  
+  
+  
+  
+  
+  .review-clients span {
+    display: block;
+    font-size: 15px;
+    font-weight: lighter;
+  }
+  
+  .big-button {
+    background: #fc77af;
+    text-decoration: none;
+    display: inline-block;
+    padding: 20px 50px;
+    color: aliceblue;
+    border-radius: 5px;
+  }
+  
+  .big-button span {
+    display: block;
+    font-size: 40px;
+  }
+  .review-clients {
+      background-image: url("images/biography-bg.png");
+  }
+  
+  footer {
+    text-align: center;
+    font-size: 20px;
+  }
+  .boxed-btn {
+       background: #529cdc;
+    padding: 7px 20px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: 30px;
+    display: inline-block;
+  }
+  
+  .boxed-btn:hover {
+    background: cadetblue;
+
+  }
+  
+  h4 {
+    font-weight: lighter;
+    font-size: 30px;
+  }
+  .highlight-area {
+    color: #de8a1a;
+    font-size: 34px;
+    padding: 0;
+    margin: 0;
+  }
+  .section-1 {
+    margin-top: 27px;
+  }
+  .section-2 {
+    margin-top: 64px;
+  }
+  
+  .experience h2 {
+    text-align: center;
+    font-size: 33px;
+    font-weight: normal;
+    padding-top: 90px;
+  }
+
+  .headnav a {
+    float: right;
+    color: #181717;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+  }
+  
+  .quarter-width {
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding: 15px;
+    text-align: center;
+    margin-right: 5px;
+    border-radius: 5px;
+    height: 350px;
+    
+    
+    box-shadow: 5px 5px 0.5px rgb(184, 184, 184);
+  }
+
+  .quarter-width img{
+    max-width: 300px;
+  }
+
+  .experience-area h1 {
+    text-align: center;
+    margin-left: 50px;
+    font-weight: bolder;
+    font-size: 40px;
+    text-transform: uppercase;
+     
+  }
+  .experience-area  span {
+    color: #de8a1a;
+  }
+
+  .experience-area h4 {
+    font-weight: bold;
+  }
+   .experience-area p {
+     color: #181717;
+   }
+
+   .footer-area {
+    
+    
+   }
+
+   .footer-area img {
+     max-width: 700px;
+     margin: 0 auto;
+     display: block;
+   }
+
+   .footer-area {
+     position: relative;
+     text-align: left;
+     color: aliceblue;
+   }
+
+   .head-position {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+
+   }
+
+
+/* Inline #1 | file:///C:/my-profile/index.html */
+
+.head-positon {
+  position: absolute;
+  top: 38px;
+  right: 736px;
+  font-size: 22px;
+  text-transform: bold;
+  text-transform: capitalize;
+}
+
+.footer-button a {
+  display: block;
+  position: absolute;
+  top: 74px;
+  left: ;
+  right: 403px;
+  font-size: 20px;
+  text-decoration: none;
+  background: #e35f41;
+  padding: 5px 24px;
+  border-radius: 5px;
+  color: aliceblue;
+}
+
+
+
+.bottom-area {
+  margin-top: 0;
+}
+
+.bottom-area img {
+  max-width: 47px;
+}
+
+.bottom-area {
+  color: #534c4c;
+}
+
+.bottom-area p {
+  font-size: 23px;
+  color: #4b4b48;
+}
+
+
+.footer-area {
+  margin-bottom: 0;
+  padding: ;
+  padding-bottom: 0;
+}
+
+.footer-area img {
+  margin-bottom: 0;
+}
+
+  
+/* style.css | file:///C:/my-profile/style.css */
+
+.bottom-area img {
+  display: inline-block;
+}
+
+.bottom-area {
+  margin-top: 97px;
+}
